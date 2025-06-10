@@ -1,3 +1,4 @@
-transformers
-moviepy
+pandas
+scikit-learn
+xgboost
 ipywidgets
